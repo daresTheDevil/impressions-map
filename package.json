@@ -21,6 +21,7 @@
     "nuxt-leaflet": "0.0.18",
     "papaparse": "^4.6.3",
     "vue-csv-import": "^2.3.3",
+    "vue2-leaflet-markercluster": "^3.0.0",
     "vuetify": "^1.5.5",
     "vuetify-loader": "^1.2.1"
   },

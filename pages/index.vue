@@ -5,17 +5,19 @@
         <l-tile-layer
           url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
         ></l-tile-layer>
-        <!-- <l-marker :lat-lng="[29.959694, -90.054932]"></l-marker> -->
-        <l-marker
-          v-for="marker in markers"
-          :key="marker.id"
-          :lat-lng="marker.position"
-        >
-          <l-popup>
-            <h1 class="title">{{ marker.city }}, {{ marker.state }}</h1>
-            <h1 class="body-1">Impressions: {{ marker.impressions }}</h1>
-          </l-popup>
-        </l-marker>
+        <v-icondefault :image-path="'/statics/leafletImages/'"></v-icondefault>
+        <l-marker-cluster>
+          <l-marker
+            v-for="marker in markers"
+            :key="marker.id"
+            :lat-lng="marker.position"
+          >
+            <l-popup>
+              <h1 class="title">{{ marker.city }}, {{ marker.state }}</h1>
+              <h1 class="body-1">Impressions: {{ marker.impressions }}</h1>
+            </l-popup>
+          </l-marker>
+        </l-marker-cluster>
       </l-map>
     </no-ssr>
   </div>
@@ -25,8 +27,13 @@
 import jsonMarkers from '@/assets/data/results.json'
 import { mapGetters } from 'vuex'
 import 'leaflet/dist/leaflet.css'
+import 'leaflet.markercluster/dist/MarkerCluster.Default.css'
+import Vue2LeafletMarkerCluster from 'vue2-leaflet-markercluster'
 
 export default {
+  components: {
+    'l-marker-cluster': Vue2LeafletMarkerCluster
+  },
   data() {
     return {
       jsonMarkers,

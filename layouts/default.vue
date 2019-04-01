@@ -26,20 +26,6 @@
         Click to upload
         <v-icon>mdi-cloud-upload</v-icon>
       </v-btn>
-      <!-- <v-sheet
-        color="warning"
-        width="280"
-        class="pa-2 text-xs-center"
-        light
-        :class="dragging ? 'error' : 'warning'"
-        @drop.stop.prevent="handleDragDropUpload"
-        @dragenter.stop.prevent="dragging = true"
-        @dragover.stop.prevent="dragging = true"
-        @dragleave.stop.prevent="dragging = false"
-        @click="addFiles"
-      >
-        Drop files here or click to upload
-      </v-sheet> -->
     </v-toolbar>
     <v-content>
       <nuxt />
