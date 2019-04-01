@@ -22,7 +22,11 @@
       <v-toolbar-side-icon @click="drawer = !drawer" />
       <v-toolbar-title v-text="title" />
       <v-spacer />
-      <v-sheet
+      <v-btn color="warning" class="black--text" light @click="addFiles">
+        Click to upload
+        <v-icon>mdi-cloud-upload</v-icon>
+      </v-btn>
+      <!-- <v-sheet
         color="warning"
         width="280"
         class="pa-2 text-xs-center"
@@ -35,7 +39,7 @@
         @click="addFiles"
       >
         Drop files here or click to upload
-      </v-sheet>
+      </v-sheet> -->
     </v-toolbar>
     <v-content>
       <nuxt />
