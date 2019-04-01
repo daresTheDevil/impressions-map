@@ -1,0 +1,17 @@
+[
+  { "id": 246, "position": [ 29.97333, -92.13575 ], "state": "LA", "city": "Abbeville", "impressions": 477 },
+  { "id": 286, "position": [ 29.97333, -92.13575 ], "state": "LA", "city": "Abbeville", "impressions": 129 },
+  { "id": 809, "position": [ 32.44917, -99.74142 ], "state": "TX", "city": "Abilene", "impressions": 4 },
+  { "id": 310, "position": [ 30.47833, -90.03563 ], "state": "LA", "city": "Abita Springs", "impressions": 68 },
+  { "id": 313, "position": [ 30.47833, -90.03563 ], "state": "LA", "city": "Abita Springs", "impressions": 67 },
+  { "id": 553, "position": [ 33.31193, -89.17677 ], "state": "MS", "city": "Ackerman", "impressions": 32 },
+  { "id": 29, "position": [ 33.60056, -86.95372 ], "state": "AL", "city": "Adamsville", "impressions": 12 },
+  { "id": 63, "position": [ 33.2451, -86.81635 ], "state": "AL", "city": "Alabaster", "impressions": 1 },
+  { "id": 178, "position": [ 29.79309, -82.49428 ], "state": "FL", "city": "Alachua", "impressions": 5 },
+  { "id": 440, "position": [ 30.50425, -90.58197 ], "state": "LA", "city": "Albany", "impressions": 2 },
+  { "id": 821, "position": [ 32.696, -97.60502 ], "state": "TX", "city": "Aledo", "impressions": 3 },
+  { "id": 317, "position": [ 31.31266, -92.44568 ], "state": "LA", "city": "Alexandria", "impressions": 59 },
+  { "id": 376, "position": [ 31.31266, -92.44568 ], "state": "LA", "city": "Alexandria", "impressions": 14 },
+  { "id": 894, "position": [ 33.10144, -96.67449 ], "state": "TX", "city": "Allen", "impressions": 1 },
+  { "id": 114, "position": [ 28.66591, -81.35977 ], "state": "FL", "city": "Altamonte Springs", "impressions": 49 }
+]

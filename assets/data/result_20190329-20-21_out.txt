@@ -1,0 +1,911 @@
+recId,SeqNumber,seqLength,state,city
+1,1,1,AL,Mobile
+2,0,0,,
+3,1,1,AL,Birmingham
+4,1,1,AL,Fairhope
+5,1,1,AL,Tuscaloosa
+6,1,1,AL,Mobile
+7,1,1,AL,Foley
+8,1,1,AL,Gulf Shores
+9,1,1,AL,Foley
+10,1,1,AL,Daphne
+11,1,1,AL,Atmore
+12,1,1,AL,Millbrook
+13,1,1,AL,Millry
+14,1,1,AL,Montgomery
+15,1,1,AL,Madison
+16,1,1,AL,Phenix City
+17,1,1,AL,Jacksonville
+18,1,1,AL,Satsuma
+19,1,1,AL,Satsuma
+20,1,1,AL,Semmes
+21,1,1,AL,Saraland
+22,1,1,AL,Stockton
+23,1,1,AL,Decatur
+24,1,1,AL,Selma
+25,1,1,AL,Opp
+26,0,0,,
+27,1,1,AL,Auburn
+28,1,1,AL,Pleasant Grove
+29,1,1,AL,Adamsville
+30,1,1,AL,Bay Minette
+31,1,1,AL,Irvington
+32,1,1,AL,Fairhope
+33,1,1,AL,Theodore
+34,1,1,AL,Robertsdale
+35,1,1,AL,Enterprise
+36,1,1,AL,Ashville
+37,1,1,AL,Boaz
+38,1,1,AL,Orange Beach
+39,1,1,AL,Gardendale
+40,1,1,AL,Hollywood
+41,1,1,AL,Oxford
+42,1,1,AL,Ozark
+43,1,1,AL,Anniston
+44,1,1,AL,Pelham
+45,1,1,AL,Trussville
+46,1,1,AL,York
+47,1,1,AL,Dothan
+48,1,1,AL,Citronelle
+49,1,1,AL,Moody
+50,1,1,AL,Florence
+51,1,1,AL,Warrior
+52,1,1,AL,Cusseta
+53,1,1,AL,Lincoln
+54,1,1,AL,Deatsville
+55,1,1,AL,Leesburg
+56,1,1,AL,Loxley
+57,1,1,AL,Monroeville
+58,1,1,AL,Grand Bay
+59,1,1,AL,Wetumpka
+60,1,1,AL,Greenville
+61,1,1,AL,Tuscumbia
+62,1,1,AL,Athens
+63,1,1,AL,Alabaster
+64,1,1,AL,Fultondale
+65,1,1,AL,Opelika
+66,1,1,AL,Summerdale
+67,1,1,AL,Spanish Fort
+68,1,1,AL,Tuskegee
+69,1,1,AL,Auburn
+70,1,1,AL,Rainsville
+71,1,1,AL,Jackson
+72,1,1,AL,Eastaboga
+73,1,1,AL,Pell City
+74,1,1,AL,Jacksonville
+75,1,1,AL,Guntersville
+76,1,1,AL,Troy
+77,1,1,FL,Orlando
+78,0,0,,
+79,1,1,FL,Orlando
+80,1,1,FL,Miami
+81,1,1,FL,Tampa
+82,1,1,FL,Pensacola
+83,1,1,FL,Kissimmee
+84,1,1,FL,Perry
+85,1,1,FL,Jacksonville
+86,1,1,FL,Deltona
+87,1,1,FL,Ocala
+88,1,1,FL,Navarre
+89,1,1,FL,Fort Lauderdale
+90,1,1,FL,Hollywood
+91,1,1,FL,Winter Garden
+92,1,1,FL,Ocoee
+93,1,1,FL,Lakeland
+94,1,1,FL,Hialeah
+95,1,1,FL,Winter Haven
+96,1,1,FL,Panama City
+97,0,0,,
+98,1,1,FL,Milton
+99,1,1,FL,St Petersburg
+100,1,1,FL,Melbourne
+101,1,1,FL,Miami
+102,1,1,FL,DeLand
+103,1,1,FL,Winter Park
+104,1,1,FL,Gainesville
+105,1,1,FL,Palm Bay
+106,1,1,FL,St Cloud
+107,1,1,FL,Windermere
+108,1,1,FL,Marianna
+109,1,1,FL,Naples
+110,1,1,FL,Cantonment
+111,1,1,FL,Inverness
+112,1,1,FL,Maitland
+113,1,1,FL,Boynton Beach
+114,1,1,FL,Altamonte Springs
+115,1,1,FL,Delray Beach
+116,1,1,FL,Apopka
+117,1,1,FL,Fruitland Park
+118,1,1,FL,Fort Walton Beach
+119,1,1,FL,Palm Coast
+120,1,1,FL,Clermont
+121,1,1,FL,Port Orange
+122,1,1,FL,Daytona Beach
+123,1,1,FL,Orange City
+124,1,1,FL,Defuniak Springs
+125,1,1,FL,Gulf Breeze
+126,1,1,FL,Oviedo
+127,1,1,FL,Winter Springs
+128,1,1,FL,Fleming Island
+129,1,1,FL,Bradenton
+130,1,1,FL,Panama City Beach
+131,1,1,FL,Lake Mary
+132,1,1,FL,Longwood
+133,1,1,FL,Molino
+134,1,1,FL,Crestview
+135,1,1,FL,Oxford
+136,1,1,FL,Merritt Island
+137,1,1,FL,Lutz
+138,1,1,FL,Pinellas Park
+139,1,1,FL,Ruskin
+140,1,1,FL,Miami Beach
+141,1,1,FL,Mt Dora
+142,1,1,FL,Palm Beach Gardens
+143,1,1,FL,Destin
+144,1,1,FL,Sanford
+145,1,1,FL,Plant City
+146,1,1,FL,Leesburg
+147,1,1,FL,Davenport
+148,1,1,FL,Brandon
+149,1,1,FL,Ormond Beach
+150,1,1,FL,Quincy
+151,1,1,FL,Fernandina Beach
+152,1,1,FL,Sarasota
+153,1,1,FL,New Port Richey
+154,1,1,FL,Pensacola
+155,1,1,FL,Lady Lake
+156,1,1,FL,New Smyrna Beach
+157,1,1,FL,Mulberry
+158,1,1,FL,Fort White
+159,1,1,FL,Orange Park
+160,1,1,FL,Tallahassee
+161,1,1,FL,Sebastian
+162,1,1,FL,Tarpon Springs
+163,1,1,FL,Sun City Center
+164,1,1,FL,Milton
+165,1,1,FL,St Augustine
+166,1,1,FL,Riverview
+167,1,1,FL,Pompano Beach
+168,1,1,FL,Port St Lucie
+169,1,1,FL,The Villages
+170,1,1,FL,West Palm Beach
+171,1,1,FL,Lehigh Acres
+172,1,1,FL,Fort Myers
+173,1,1,FL,Deerfield Beach
+174,1,1,FL,Valrico
+175,1,1,FL,Clearwater
+176,1,1,FL,Mary Esther
+177,1,1,FL,Lithia
+178,1,1,FL,Alachua
+179,1,1,FL,Lake Worth
+180,1,1,FL,Crawfordville
+181,1,1,FL,Homestead
+182,1,1,FL,Shalimar
+183,1,1,FL,Wesley Chapel
+184,1,1,FL,Largo
+185,1,1,FL,Islamorada
+186,1,1,FL,Zephyrhills
+187,1,1,FL,Edgewater
+188,1,1,FL,Summerfield
+189,1,1,FL,Lynn Haven
+190,1,1,FL,Bronson
+191,1,1,FL,Melbourne
+192,1,1,FL,Rockledge
+193,1,1,FL,Rotonda West
+194,1,1,FL,Spring Hill
+195,1,1,FL,Ponte Vedra Beach
+196,1,1,FL,Lakeland
+197,1,1,FL,Haines City
+198,1,1,FL,Niceville
+199,1,1,FL,Port Charlotte
+200,1,1,FL,Cocoa Beach
+201,1,1,FL,Venice
+202,1,1,FL,Dunnellon
+203,1,1,FL,Plant City
+204,1,1,FL,Madison
+205,1,1,FL,Port Charlotte
+206,1,1,FL,Hudson
+207,1,1,FL,Clearwater
+208,1,1,FL,St James City
+209,1,1,FL,Archer
+210,1,1,FL,Titusville
+211,1,1,FL,North Palm Beach
+212,1,1,FL,Cantonment
+213,1,1,FL,Cross City
+214,1,1,FL,Jacksonville
+215,1,1,FL,Cocoa
+216,1,1,FL,Cocoa
+217,1,1,FL,Jay
+218,1,1,FL,Windermere
+219,1,1,FL,Key West
+220,1,1,FL,Middleburg
+221,1,1,FL,DeLand
+222,1,1,FL,Belleview
+223,1,1,LA,New Orleans
+224,1,1,LA,Houma
+225,1,1,LA,Thibodaux
+226,1,1,LA,Baton Rouge
+227,1,1,LA,Cut Off
+228,1,1,LA,Lafayette
+229,1,1,LA,Chauvin
+230,1,1,LA,Metairie
+231,1,1,LA,Chauvin
+232,1,1,LA,New Orleans
+233,1,1,LA,New Iberia
+234,0,0,,
+235,1,1,LA,Opelousas
+236,1,1,LA,Larose
+237,1,1,LA,Cut Off
+238,1,1,LA,Marrero
+239,1,1,LA,Thibodaux
+240,1,1,LA,Harvey
+241,1,1,LA,Hammond
+242,1,1,LA,Denham Springs
+243,1,1,LA,Lake Charles
+244,1,1,LA,Gretna
+245,1,1,LA,Buras
+246,1,1,LA,Abbeville
+247,1,1,LA,Belle Chasse
+248,1,1,LA,Clinton
+249,1,1,LA,Grand Chenier
+250,1,1,LA,Franklin
+251,1,1,LA,Bourg
+252,1,1,LA,Covington
+253,1,1,LA,Breaux Bridge
+254,1,1,LA,Slidell
+255,1,1,LA,Eunice
+256,1,1,LA,Patterson
+257,1,1,LA,Houma
+258,1,1,LA,Galliano
+259,1,1,LA,Prairieville
+260,1,1,LA,Youngsville
+261,1,1,LA,Gonzales
+262,1,1,LA,Morgan City
+263,1,1,LA,Kenner
+264,1,1,LA,Lafayette
+265,1,1,LA,Gretna
+266,1,1,LA,Baton Rouge
+267,1,1,LA,Bourg
+268,1,1,LA,Larose
+269,1,1,LA,Breaux Bridge
+270,1,1,LA,Pineville
+271,1,1,LA,Holden
+272,1,1,LA,Mandeville
+273,0,0,,
+274,1,1,LA,St Martinville
+275,1,1,LA,Opelousas
+276,1,1,LA,Buras
+277,1,1,LA,Metairie
+278,1,1,LA,Jennings
+279,1,1,LA,Madisonville
+280,1,1,LA,Crowley
+281,1,1,LA,Raceland
+282,1,1,LA,Lockport
+283,1,1,LA,Grand Chenier
+284,1,1,LA,Kaplan
+285,1,1,LA,Laplace
+286,1,1,LA,Abbeville
+287,1,1,LA,Broussard
+288,1,1,LA,Napoleonville
+289,1,1,LA,Napoleonville
+290,1,1,LA,Shreveport
+291,1,1,LA,Luling
+292,1,1,LA,Eunice
+293,1,1,LA,Calhoun
+294,1,1,LA,Chalmette
+295,1,1,LA,Westwego
+296,1,1,LA,Vinton
+297,1,1,LA,Marrero
+298,1,1,LA,New Iberia
+299,1,1,LA,Sulphur
+300,1,1,LA,Franklin
+301,1,1,LA,Church Point
+302,1,1,LA,Monroe
+303,1,1,LA,St Martinville
+304,1,1,LA,Dulac
+305,1,1,LA,Plattenville
+306,1,1,LA,Ville Platte
+307,1,1,LA,Lacombe
+308,1,1,LA,West Monroe
+309,1,1,LA,Port Sulphur
+310,1,1,LA,Abita Springs
+311,1,1,LA,Belle Chasse
+312,1,1,LA,Dulac
+313,1,1,LA,Abita Springs
+314,1,1,LA,Plaquemine
+315,1,1,LA,Loreauville
+316,1,1,LA,Montegut
+317,1,1,LA,Alexandria
+318,1,1,LA,Pearl River
+319,1,1,LA,Gray
+320,1,1,LA,Livingston
+321,1,1,LA,Baker
+322,1,1,LA,Arnaudville
+323,1,1,LA,Port Sulphur
+324,1,1,LA,Denham Springs
+325,1,1,LA,Kaplan
+326,1,1,LA,Marksville
+327,1,1,LA,Baldwin
+328,1,1,LA,Destrehan
+329,1,1,LA,Prairieville
+330,1,1,LA,Vinton
+331,1,1,LA,Creole
+332,1,1,LA,Belle Rose
+333,1,1,LA,Franklinton
+334,1,1,LA,Lockport
+335,1,1,LA,New Roads
+336,1,1,LA,Leesville
+337,1,1,LA,Pierre Part
+338,1,1,LA,Jena
+339,1,1,LA,Sulphur
+340,1,1,LA,Many
+341,1,1,LA,Greenwell Springs
+342,1,1,LA,Harvey
+343,1,1,LA,Slidell
+344,1,1,LA,Paulina
+345,1,1,LA,Scott
+346,1,1,LA,Sunset
+347,1,1,LA,Jackson
+348,1,1,LA,Holden
+349,1,1,LA,Shreveport
+350,1,1,LA,Golden Meadow
+351,1,1,LA,Carencro
+352,1,1,LA,Independence
+353,1,1,LA,Bossier City
+354,1,1,LA,Crowley
+355,1,1,LA,Livingston
+356,1,1,LA,Jeanerette
+357,1,1,LA,Eros
+358,1,1,LA,Lake Arthur
+359,1,1,LA,West Monroe
+360,1,1,LA,Schriever
+361,1,1,LA,Glenmora
+362,1,1,LA,Montegut
+363,1,1,LA,Gibson
+364,1,1,LA,Walker
+365,1,1,LA,Ponchatoula
+366,1,1,LA,Bastrop
+367,1,1,LA,Raceland
+368,1,1,LA,Donaldsonville
+369,1,1,LA,Tickfaw
+370,1,1,LA,Winnfield
+371,1,1,LA,Hessmer
+372,1,1,LA,Ruston
+373,1,1,LA,Benton
+374,1,1,LA,Cameron
+375,1,1,LA,Zachary
+376,1,1,LA,Alexandria
+377,1,1,LA,Pitkin
+378,1,1,LA,Calhoun
+379,1,1,LA,Vidalia
+380,1,1,LA,Morgan City
+381,1,1,LA,Springfield
+382,1,1,LA,Natchitoches
+383,1,1,LA,Church Point
+384,1,1,LA,Morse
+385,1,1,LA,Schriever
+386,1,1,LA,Greensburg
+387,1,1,LA,Bogalusa
+388,1,1,LA,Springhill
+389,1,1,LA,Westlake
+390,1,1,LA,Broussard
+391,1,1,LA,Port Allen
+392,1,1,LA,Mamou
+393,1,1,LA,Deridder
+394,1,1,LA,Walker
+395,1,1,LA,Jennings
+396,1,1,LA,Jena
+397,1,1,LA,Laplace
+398,1,1,LA,Grayson
+399,1,1,LA,Folsom
+400,1,1,LA,Reserve
+401,1,1,LA,Many
+402,1,1,LA,Covington
+403,1,1,LA,Ragley
+404,1,1,LA,Creole
+405,1,1,LA,Lake Charles
+406,1,1,LA,Chalmette
+407,1,1,LA,Independence
+408,1,1,LA,Hammond
+409,1,1,LA,Ruston
+410,1,1,LA,Mansfield
+411,1,1,LA,Monroe
+412,1,1,LA,Rayne
+413,1,1,LA,Mandeville
+414,1,1,LA,St Francisville
+415,1,1,LA,Elmer
+416,1,1,LA,Gibson
+417,1,1,LA,Youngsville
+418,1,1,LA,Carencro
+419,1,1,LA,Amite
+420,1,1,LA,Arnaudville
+421,1,1,LA,Bernice
+422,1,1,LA,Jonesboro
+423,1,1,LA,Violet
+424,1,1,LA,Gonzales
+425,1,1,LA,Kentwood
+426,1,1,LA,Gray
+427,1,1,LA,Florien
+428,1,1,LA,Paulina
+429,1,1,LA,Scott
+430,1,1,LA,Moreauville
+431,1,1,LA,Jackson
+432,1,1,LA,Bossier City
+433,1,1,LA,Cottonport
+434,1,1,LA,Plaquemine
+435,1,1,LA,Welsh
+436,1,1,LA,Erath
+437,1,1,LA,Luling
+438,1,1,LA,Maurice
+439,1,1,LA,Port Allen
+440,1,1,LA,Albany
+441,1,1,LA,Labadieville
+442,1,1,LA,Franklinton
+443,1,1,LA,Delhi
+444,1,1,LA,Sunset
+445,1,1,LA,Iota
+446,1,1,LA,Gramercy
+447,1,1,LA,Iota
+448,1,1,LA,Florien
+449,1,1,LA,Roseland
+450,1,1,LA,Ponchatoula
+451,1,1,LA,Vacherie
+452,1,1,LA,Patterson
+453,1,1,LA,Pitkin
+454,1,1,LA,Amite
+455,1,1,LA,Maringouin
+456,1,1,LA,Destrehan
+457,1,1,LA,Ferriday
+458,1,1,LA,Kenner
+459,1,1,LA,Berwick
+460,1,1,LA,Elton
+461,1,1,LA,Marksville
+462,1,1,LA,Sarepta
+463,1,1,LA,Shongaloo
+464,1,1,LA,Mansfield
+465,1,1,LA,Kentwood
+466,1,1,LA,Loranger
+467,1,1,LA,Belle Rose
+468,1,1,LA,New Roads
+469,1,1,LA,Leesville
+470,1,1,LA,Pearl River
+471,1,1,LA,Benton
+472,1,1,LA,Gueydan
+473,1,1,LA,Iowa
+474,1,1,LA,Natchitoches
+475,1,1,LA,Ethel
+476,1,1,LA,Zachary
+477,1,1,LA,Pineville
+478,1,1,LA,Vacherie
+479,1,1,LA,Donaldsonville
+480,1,1,LA,Ball
+481,1,1,LA,Roseland
+482,1,1,LA,Westlake
+483,1,1,LA,Norco
+484,1,1,LA,Ragley
+485,1,1,LA,Kinder
+486,1,1,LA,Venice
+487,1,1,LA,Basile
+488,1,1,MS,Gulfport
+489,1,1,MS,Long Beach
+490,1,1,MS,Long Beach
+491,1,1,MS,Hattiesburg
+492,1,1,MS,Gulfport
+493,1,1,MS,Ocean Springs
+494,1,1,MS,Jackson
+495,1,1,MS,Biloxi
+496,1,1,MS,Pass Christian
+497,1,1,MS,Bay St Louis
+498,1,1,MS,Seminary
+499,1,1,MS,Mt Olive
+500,1,1,MS,Laurel
+501,1,1,MS,Madison
+502,1,1,MS,Pearl
+503,1,1,MS,Diamondhead
+504,1,1,MS,Sumrall
+505,1,1,MS,Saucier
+506,1,1,MS,Moselle
+507,1,1,MS,Richland
+508,1,1,MS,Pass Christian
+509,1,1,MS,Meadville
+510,1,1,MS,Vicksburg
+511,1,1,MS,Ellisville
+512,1,1,MS,Saucier
+513,1,1,MS,Moss Point
+514,1,1,MS,Picayune
+515,1,1,MS,Brandon
+516,1,1,MS,Hattiesburg
+517,1,1,MS,Starkville
+518,1,1,MS,Tupelo
+519,1,1,MS,Meridian
+520,1,1,MS,Tupelo
+521,1,1,MS,Olive Branch
+522,1,1,MS,Lucedale
+523,1,1,MS,Oxford
+524,1,1,MS,Carriere
+525,1,1,MS,D'Iberville
+526,1,1,MS,Wiggins
+527,0,0,,
+528,1,1,MS,Florence
+529,1,1,MS,Grenada
+530,1,1,MS,Poplarville
+531,1,1,MS,Gautier
+532,1,1,MS,Pontotoc
+533,1,1,MS,Fulton
+534,1,1,MS,Kiln
+535,1,1,MS,Jackson
+536,1,1,MS,Batesville
+537,1,1,MS,Moselle
+538,1,1,MS,Ocean Springs
+539,1,1,MS,Waynesboro
+540,1,1,MS,Enterprise
+541,1,1,MS,Vancleave
+542,1,1,MS,Pascagoula
+543,1,1,MS,Osyka
+544,1,1,MS,Greenville
+545,1,1,MS,Cleveland
+546,1,1,MS,Byram
+547,1,1,MS,Perkinston
+548,1,1,MS,Carthage
+549,1,1,MS,Philadelphia
+550,1,1,MS,Richland
+551,1,1,MS,Clinton
+552,1,1,MS,Waveland
+553,1,1,MS,Ackerman
+554,1,1,MS,Starkville
+555,1,1,MS,Natchez
+556,1,1,MS,Columbus
+557,1,1,MS,Madison
+558,1,1,MS,Terry
+559,1,1,MS,Seminary
+560,1,1,MS,Moss Point
+561,1,1,MS,Laurel
+562,1,1,MS,Ridgeland
+563,1,1,MS,Biloxi
+564,1,1,MS,Canton
+565,1,1,MS,New Albany
+566,1,1,MS,Brookhaven
+567,1,1,MS,Utica
+568,1,1,MS,Olive Branch
+569,1,1,MS,Carriere
+570,1,1,MS,Poplarville
+571,1,1,MS,Sumrall
+572,1,1,MS,Carthage
+573,1,1,MS,Corinth
+574,1,1,MS,Tchula
+575,1,1,MS,Southaven
+576,1,1,MS,Southaven
+577,1,1,MS,Diamondhead
+578,1,1,MS,Mendenhall
+579,1,1,MS,Guntown
+580,1,1,MS,Purvis
+581,1,1,MS,New Hebron
+582,1,1,MS,Bay St Louis
+583,1,1,MS,State Line
+584,1,1,MS,Louisville
+585,0,0,,
+586,1,1,MS,Morton
+587,1,1,MS,Bay Springs
+588,1,1,MS,Gautier
+589,1,1,MS,Ellisville
+590,1,1,MS,Greenwood
+591,1,1,MS,Vicksburg
+592,1,1,MS,Raymond
+593,1,1,MS,Picayune
+594,1,1,MS,Stringer
+595,1,1,MS,Indianola
+596,1,1,MS,McComb
+597,1,1,MS,Osyka
+598,1,1,MS,Greenville
+599,1,1,MS,Liberty
+600,1,1,MS,Pearl
+601,1,1,MS,Oxford
+602,1,1,MS,Hernando
+603,1,1,MS,Raymond
+604,1,1,MS,McHenry
+605,1,1,MS,Columbia
+606,1,1,MS,Magnolia
+607,1,1,MS,Mt Olive
+608,1,1,MS,Petal
+609,1,1,MS,Ridgeland
+610,1,1,MS,Newton
+611,1,1,MS,Clarksdale
+612,1,1,MS,Leland
+613,1,1,MS,Senatobia
+614,1,1,MS,Collins
+615,1,1,MS,Pascagoula
+616,1,1,MS,Meridian
+617,1,1,MS,Corinth
+618,1,1,MS,Liberty
+619,1,1,MS,Ripley
+620,1,1,MS,Bogue Chitto
+621,1,1,MS,Saltillo
+622,1,1,MS,Columbus
+623,1,1,MS,West Point
+624,1,1,MS,State Line
+625,1,1,MS,Grenada
+626,1,1,MS,Brandon
+627,1,1,MS,Senatobia
+628,1,1,MS,Lucedale
+629,1,1,MS,Heidelberg
+630,1,1,MS,Winona
+631,1,1,MS,Enterprise
+632,1,1,MS,Stringer
+633,1,1,MS,Pearlington
+634,1,1,MS,Leakesville
+635,1,1,MS,Byhalia
+636,1,1,MS,Waynesboro
+637,1,1,MS,Raleigh
+638,1,1,MS,Byhalia
+639,1,1,MS,Wiggins
+640,1,1,MS,University
+641,1,1,MS,Bay Springs
+642,1,1,MS,Mendenhall
+643,1,1,MS,Brookhaven
+644,1,1,MS,Collinsville
+645,1,1,MS,Hernando
+646,1,1,MS,Stennis Space Center
+647,1,1,MS,Taylorsville
+648,1,1,MS,Bogue Chitto
+649,1,1,MS,Greenwood
+650,1,1,MS,Summit
+651,1,1,MS,Ripley
+652,1,1,MS,Magee
+653,1,1,MS,Rienzi
+654,1,1,MS,Columbia
+655,1,1,MS,Batesville
+656,1,1,MS,Booneville
+657,1,1,MS,Decatur
+658,1,1,MS,Clarksdale
+659,1,1,MS,Natchez
+660,1,1,MS,Yazoo City
+661,1,1,MS,Heidelberg
+662,1,1,TX,Houston
+663,1,1,TX,Dallas
+664,1,1,TX,Fort Worth
+665,0,0,,
+666,1,1,TX,Irving
+667,1,1,TX,Houston
+668,1,1,TX,Arlington
+669,1,1,TX,Dallas
+670,0,0,,
+671,1,1,TX,Fort Worth
+672,1,1,TX,Spring
+673,1,1,TX,San Antonio
+674,1,1,TX,Castroville
+675,1,1,TX,Irving
+676,1,1,TX,Odessa
+677,1,1,TX,Beaumont
+678,1,1,TX,Harlingen
+679,1,1,TX,Austin
+680,1,1,TX,Port Arthur
+681,1,1,TX,Arlington
+682,1,2,TX,Texarkana
+682,2,2,AR,Texarkana
+683,1,1,TX,Pearland
+684,1,1,TX,Midland
+685,1,1,TX,Garland
+686,1,1,TX,Beaumont
+687,1,1,TX,Corpus Christi
+688,1,1,TX,Waco
+689,1,1,TX,Sugar Land
+690,1,1,TX,Smithville
+691,1,1,TX,Temple
+692,1,1,TX,Leander
+693,1,1,TX,Jacksonville
+694,1,1,TX,Beeville
+695,1,1,TX,Lubbock
+696,1,1,TX,Edinburg
+697,1,1,TX,Richmond
+698,1,1,TX,Ballinger
+699,1,1,TX,Galveston
+700,1,1,TX,Freeport
+701,1,1,TX,Groves
+702,1,1,TX,Humble
+703,1,1,TX,San Angelo
+704,1,1,TX,Port Arthur
+705,1,1,TX,Nome
+706,1,1,TX,Katy
+707,1,1,TX,Clute
+708,1,1,TX,Marshall
+709,1,1,TX,Port Neches
+710,1,1,TX,Friendswood
+711,1,1,TX,Karnack
+712,1,1,TX,San Marcos
+713,1,1,TX,Wichita Falls
+714,1,1,TX,Frisco
+715,1,1,TX,Orange
+716,1,1,TX,Portland
+717,1,1,TX,Tomball
+718,1,1,TX,Pearsall
+719,1,1,TX,College Station
+720,1,1,TX,Longview
+721,1,1,TX,Colorado City
+722,1,1,TX,Borger
+723,1,1,TX,La Marque
+724,1,1,TX,Killeen
+725,1,1,TX,Nome
+726,1,1,TX,Karnack
+727,1,1,TX,El Paso
+728,1,1,TX,Mesquite
+729,1,1,TX,Pasadena
+730,1,1,TX,Amarillo
+731,1,1,TX,Missouri City
+732,1,1,TX,Gatesville
+733,1,1,TX,Santa Fe
+734,1,1,TX,Lake Jackson
+735,1,1,TX,Carrollton
+736,1,1,TX,Kountze
+737,1,1,TX,Nederland
+738,1,1,TX,Grand Prairie
+739,1,1,TX,Waxahachie
+740,1,1,TX,Sherman
+741,1,1,TX,Tyler
+742,1,1,TX,Dayton
+743,1,1,TX,Aransas Pass
+744,1,1,TX,Cumby
+745,1,1,TX,Rowlett
+746,1,1,TX,Cypress
+747,1,1,TX,Lufkin
+748,1,1,TX,Lumberton
+749,1,1,TX,Sour Lake
+750,1,1,TX,Cedar Hill
+751,1,1,TX,El Campo
+752,1,1,TX,Nacogdoches
+753,1,1,TX,Denton
+754,1,1,TX,Conroe
+755,1,1,TX,Anna
+756,1,1,TX,Channelview
+757,1,1,TX,Eagle Lake
+758,1,1,TX,Vidor
+759,1,1,TX,Grapevine
+760,1,1,TX,Nevada
+761,1,1,TX,Weatherford
+762,1,1,TX,Webster
+763,1,1,TX,Gainesville
+764,1,1,TX,Round Rock
+765,1,1,TX,League City
+766,1,1,TX,Troup
+767,1,1,TX,Texas City
+768,1,1,TX,Whitesboro
+769,1,1,TX,Dumas
+770,1,1,TX,Montgomery
+771,1,1,TX,Bastrop
+772,1,1,TX,Jasper
+773,1,1,TX,Plano
+774,1,1,TX,Quinlan
+775,1,1,TX,Trinity
+776,1,1,TX,Pearland
+777,1,2,TX,Texarkana
+777,2,2,AR,Texarkana
+778,1,1,TX,Euless
+779,1,1,TX,Rockwall
+780,1,1,TX,Crosby
+781,1,1,TX,Vernon
+782,1,1,TX,Grand Prairie
+783,1,1,TX,Cypress
+784,1,1,TX,Pampa
+785,1,1,TX,Lockhart
+786,1,1,TX,Woodway
+787,1,1,TX,San Augustine
+788,1,1,TX,Wylie
+789,1,1,TX,Lewisville
+790,1,1,TX,North Richland Hills
+791,1,1,TX,Alvin
+792,1,1,TX,Yoakum
+793,1,1,TX,San Augustine
+794,1,1,TX,Smithville
+795,1,1,TX,Odessa
+796,1,1,TX,McAllen
+797,1,1,TX,Desoto
+798,1,1,TX,Crockett
+799,1,1,TX,Magnolia
+800,1,1,TX,Groves
+801,1,1,TX,Orange
+802,1,1,TX,Longview
+803,1,1,TX,Winters
+804,1,1,TX,Silsbee
+805,1,1,TX,Andrews
+806,1,1,TX,Big Spring
+807,1,1,TX,Brackettville
+808,1,1,TX,Weslaco
+809,1,1,TX,Abilene
+810,1,1,TX,Dalhart
+811,1,1,TX,Waller
+812,1,1,TX,Elmendorf
+813,1,1,TX,Burleson
+814,1,1,TX,Ennis
+815,1,1,TX,Keller
+816,1,1,TX,Mansfield
+817,1,1,TX,Brownsville
+818,1,1,TX,Rio Hondo
+819,1,1,TX,Baytown
+820,1,1,TX,Sealy
+821,1,1,TX,Aledo
+822,1,1,TX,Huntsville
+823,1,1,TX,Friona
+824,1,1,TX,Caldwell
+825,1,1,TX,Pharr
+826,1,1,TX,Penitas
+827,1,1,TX,Moscow
+828,1,1,TX,Centerville
+829,1,1,TX,Eagle Lake
+830,1,1,TX,The Colony
+831,1,1,TX,Georgetown
+832,1,1,TX,Wallis
+833,1,1,TX,Azle
+834,1,1,TX,Ganado
+835,1,1,TX,Van Alstyne
+836,1,1,TX,Jefferson
+837,1,1,TX,Pflugerville
+838,1,1,TX,Manchaca
+839,1,1,TX,Cameron
+840,1,1,TX,Warren
+841,1,1,TX,Celina
+842,1,1,TX,McKinney
+843,1,1,TX,Hondo
+844,1,1,TX,Dripping Springs
+845,1,1,TX,Liberty Hill
+846,1,1,TX,Leonard
+847,1,1,TX,Canton
+848,1,1,TX,Comanche
+849,1,1,TX,Kirbyville
+850,1,1,TX,Jasper
+851,1,1,TX,Duncanville
+852,1,1,TX,Killeen
+853,1,1,TX,Hurst
+854,1,1,TX,Lumberton
+855,1,1,TX,Roanoke
+856,1,1,TX,Copperas Cove
+857,1,1,TX,Euless
+858,1,1,TX,Bedford
+859,1,1,TX,Canyon
+860,1,1,TX,Kemp
+861,1,1,TX,La Porte
+862,1,1,TX,Laredo
+863,1,1,TX,Stafford
+864,1,1,TX,Balch Springs
+865,1,1,TX,Ingleside
+866,1,1,TX,Austin
+867,1,1,TX,Nederland
+868,1,1,TX,Canton
+869,1,1,TX,Royse City
+870,1,1,TX,Center
+871,1,1,TX,Celeste
+872,1,1,TX,Rosenberg
+873,1,1,TX,Mission
+874,1,1,TX,Byers
+875,1,1,TX,Thrall
+876,1,1,TX,Justin
+877,1,1,TX,Pipe Creek
+878,1,1,TX,Bridge City
+879,1,1,TX,Southlake
+880,1,1,TX,Bridgeport
+881,1,1,TX,Buna
+882,1,1,TX,Port Neches
+883,1,1,TX,Conroe
+884,1,1,TX,Fischer
+885,1,1,TX,Port Isabel
+886,1,1,TX,Tuscola
+887,1,1,TX,Brookshire
+888,1,1,TX,Marshall
+889,1,1,TX,Cleburne
+890,1,1,TX,Kyle
+891,1,1,TX,Rusk
+892,1,1,TX,New Braunfels
+893,1,1,TX,Henderson
+894,1,1,TX,Allen
+895,1,1,TX,Plains
+896,1,1,TX,Decatur
+897,1,1,TX,Kilgore
+898,1,1,TX,Emory
+899,1,1,TX,Como
+900,1,1,TX,Goodfellow Air Force Base
+901,1,1,TX,China
+902,1,1,TX,Burkburnett
+903,1,1,TX,Duncanville
+904,1,1,TX,Angleton
+905,1,1,TX,Red Oak
+906,1,1,TX,Crowley
+907,1,1,TX,Colleyville
+908,1,1,TX,Brownsboro

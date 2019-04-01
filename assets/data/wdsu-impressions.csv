@@ -1,0 +1,909 @@
+state,city
+Alabama,Mobile
+Alabama,Unknown
+Alabama,Birmingham
+Alabama,Fairhope
+Alabama,Tuscaloosa
+Alabama,Mobile
+Alabama,Foley
+Alabama,Gulf Shores
+Alabama,Foley
+Alabama,Daphne
+Alabama,Atmore
+Alabama,Millbrook
+Alabama,Millry
+Alabama,Montgomery
+Alabama,Madison
+Alabama,Phenix City
+Alabama,Jacksonville
+Alabama,Satsuma
+Alabama,Satsuma
+Alabama,Semmes
+Alabama,Saraland
+Alabama,Stockton
+Alabama,Decatur
+Alabama,Selma
+Alabama,Opp
+Alabama,Unknown
+Alabama,Auburn
+Alabama,Pleasant Grove
+Alabama,Adamsville
+Alabama,Bay Minette
+Alabama,Irvington
+Alabama,Fairhope
+Alabama,Theodore
+Alabama,Robertsdale
+Alabama,Enterprise
+Alabama,Ashville
+Alabama,Boaz
+Alabama,Orange Beach
+Alabama,Gardendale
+Alabama,Hollywood
+Alabama,Oxford
+Alabama,Ozark
+Alabama,Anniston
+Alabama,Pelham
+Alabama,Trussville
+Alabama,York
+Alabama,Dothan
+Alabama,Citronelle
+Alabama,Moody
+Alabama,Florence
+Alabama,Warrior
+Alabama,Cusseta
+Alabama,Lincoln
+Alabama,Deatsville
+Alabama,Leesburg
+Alabama,Loxley
+Alabama,Monroeville
+Alabama,Grand Bay
+Alabama,Wetumpka
+Alabama,Greenville
+Alabama,Tuscumbia
+Alabama,Athens
+Alabama,Alabaster
+Alabama,Fultondale
+Alabama,Opelika
+Alabama,Summerdale
+Alabama,Spanish Fort
+Alabama,Tuskegee
+Alabama,Auburn
+Alabama,Rainsville
+Alabama,Jackson
+Alabama,Eastaboga
+Alabama,Pell City
+Alabama,Jacksonville
+Alabama,Guntersville
+Alabama,Troy
+Florida,Orlando
+Florida,Unknown
+Florida,Orlando
+Florida,Miami
+Florida,Tampa
+Florida,Pensacola
+Florida,Kissimmee
+Florida,Perry
+Florida,Jacksonville
+Florida,Deltona
+Florida,Ocala
+Florida,Navarre
+Florida,Fort Lauderdale
+Florida,Hollywood
+Florida,Winter Garden
+Florida,Ocoee
+Florida,Lakeland
+Florida,Hialeah
+Florida,Winter Haven
+Florida,Panama City
+Florida,Unknown
+Florida,Milton
+Florida,Saint Petersburg
+Florida,Melbourne
+Florida,Miami
+Florida,Deland
+Florida,Winter Park
+Florida,Gainesville
+Florida,Palm Bay
+Florida,Saint Cloud
+Florida,Windermere
+Florida,Marianna
+Florida,Naples
+Florida,Cantonment
+Florida,Inverness
+Florida,Maitland
+Florida,Boynton Beach
+Florida,Altamonte Springs
+Florida,Delray Beach
+Florida,Apopka
+Florida,Fruitland Park
+Florida,Fort Walton Beach
+Florida,Palm Coast
+Florida,Clermont
+Florida,Port Orange
+Florida,Daytona Beach
+Florida,Orange City
+Florida,Defuniak Springs
+Florida,Gulf Breeze
+Florida,Oviedo
+Florida,Winter Springs
+Florida,Fleming Island
+Florida,Bradenton
+Florida,Panama City Beach
+Florida,Lake Mary
+Florida,Longwood
+Florida,Molino
+Florida,Crestview
+Florida,Oxford
+Florida,Merritt Island
+Florida,Lutz
+Florida,Pinellas Park
+Florida,Ruskin
+Florida,Miami Beach
+Florida,Mount Dora
+Florida,Palm Beach Gardens
+Florida,Destin
+Florida,Sanford
+Florida,Plant City
+Florida,Leesburg
+Florida,Davenport
+Florida,Brandon
+Florida,Ormond Beach
+Florida,Quincy
+Florida,Fernandina Beach
+Florida,Sarasota
+Florida,New Port Richey
+Florida,Pensacola
+Florida,Lady Lake
+Florida,New Smyrna Beach
+Florida,Mulberry
+Florida,Fort White
+Florida,Orange Park
+Florida,Tallahassee
+Florida,Sebastian
+Florida,Tarpon Springs
+Florida,Sun City Center
+Florida,Milton
+Florida,Saint Augustine
+Florida,Riverview
+Florida,Pompano Beach
+Florida,Port Saint Lucie
+Florida,The Villages
+Florida,West Palm Beach
+Florida,Lehigh Acres
+Florida,Fort Myers
+Florida,Deerfield Beach
+Florida,Valrico
+Florida,Clearwater
+Florida,Mary Esther
+Florida,Lithia
+Florida,Alachua
+Florida,Lake Worth
+Florida,Crawfordville
+Florida,Homestead
+Florida,Shalimar
+Florida,Wesley Chapel
+Florida,Largo
+Florida,Islamorada
+Florida,Zephyrhills
+Florida,Edgewater
+Florida,Summerfield
+Florida,Lynn Haven
+Florida,Bronson
+Florida,Melbourne
+Florida,Rockledge
+Florida,Rotonda West
+Florida,Spring Hill
+Florida,Ponte Vedra Beach
+Florida,Lakeland
+Florida,Haines City
+Florida,Niceville
+Florida,Port Charlotte
+Florida,Cocoa Beach
+Florida,Venice
+Florida,Dunnellon
+Florida,Plant City
+Florida,Madison
+Florida,Port Charlotte
+Florida,Hudson
+Florida,Clearwater
+Florida,Saint James City
+Florida,Archer
+Florida,Titusville
+Florida,North Palm Beach
+Florida,Cantonment
+Florida,Cross City
+Florida,Jacksonville
+Florida,Cocoa
+Florida,Cocoa
+Florida,Jay
+Florida,Windermere
+Florida,Key West
+Florida,Middleburg
+Florida,Deland
+Florida,Belleview
+Louisiana,New Orleans
+Louisiana,Houma
+Louisiana,Thibodaux
+Louisiana,Baton Rouge
+Louisiana,Cut Off
+Louisiana,Lafayette
+Louisiana,Chauvin
+Louisiana,Metairie
+Louisiana,Chauvin
+Louisiana,New Orleans
+Louisiana,New Iberia
+Louisiana,Unknown
+Louisiana,Opelousas
+Louisiana,Larose
+Louisiana,Cut Off
+Louisiana,Marrero
+Louisiana,Thibodaux
+Louisiana,Harvey
+Louisiana,Hammond
+Louisiana,Denham Springs
+Louisiana,Lake Charles
+Louisiana,Gretna
+Louisiana,Buras
+Louisiana,Abbeville
+Louisiana,Belle Chasse
+Louisiana,Clinton
+Louisiana,Grand Chenier
+Louisiana,Franklin
+Louisiana,Bourg
+Louisiana,Covington
+Louisiana,Breaux Bridge
+Louisiana,Slidell
+Louisiana,Eunice
+Louisiana,Patterson
+Louisiana,Houma
+Louisiana,Galliano
+Louisiana,Prairieville
+Louisiana,Youngsville
+Louisiana,Gonzales
+Louisiana,Morgan City
+Louisiana,Kenner
+Louisiana,Lafayette
+Louisiana,Gretna
+Louisiana,Baton Rouge
+Louisiana,Bourg
+Louisiana,Larose
+Louisiana,Breaux Bridge
+Louisiana,Pineville
+Louisiana,Holden
+Louisiana,Mandeville
+Louisiana,Unknown
+Louisiana,Saint Martinville
+Louisiana,Opelousas
+Louisiana,Buras
+Louisiana,Metairie
+Louisiana,Jennings
+Louisiana,Madisonville
+Louisiana,Crowley
+Louisiana,Raceland
+Louisiana,Lockport
+Louisiana,Grand Chenier
+Louisiana,Kaplan
+Louisiana,La Place
+Louisiana,Abbeville
+Louisiana,Broussard
+Louisiana,Napoleonville
+Louisiana,Napoleonville
+Louisiana,Shreveport
+Louisiana,Luling
+Louisiana,Eunice
+Louisiana,Calhoun
+Louisiana,Chalmette
+Louisiana,Westwego
+Louisiana,Vinton
+Louisiana,Marrero
+Louisiana,New Iberia
+Louisiana,Sulphur
+Louisiana,Franklin
+Louisiana,Church Point
+Louisiana,Monroe
+Louisiana,Saint Martinville
+Louisiana,Dulac
+Louisiana,Plattenville
+Louisiana,Ville Platte
+Louisiana,Lacombe
+Louisiana,West Monroe
+Louisiana,Port Sulphur
+Louisiana,Abita Springs
+Louisiana,Belle Chasse
+Louisiana,Dulac
+Louisiana,Abita Springs
+Louisiana,Plaquemine
+Louisiana,Loreauville
+Louisiana,Montegut
+Louisiana,Alexandria
+Louisiana,Pearl River
+Louisiana,Gray
+Louisiana,Livingston
+Louisiana,Baker
+Louisiana,Arnaudville
+Louisiana,Port Sulphur
+Louisiana,Denham Springs
+Louisiana,Kaplan
+Louisiana,Marksville
+Louisiana,Baldwin
+Louisiana,Destrehan
+Louisiana,Prairieville
+Louisiana,Vinton
+Louisiana,Creole
+Louisiana,Belle Rose
+Louisiana,Franklinton
+Louisiana,Lockport
+Louisiana,New Roads
+Louisiana,Leesville
+Louisiana,Pierre Part
+Louisiana,Jena
+Louisiana,Sulphur
+Louisiana,Many
+Louisiana,Greenwell Springs
+Louisiana,Harvey
+Louisiana,Slidell
+Louisiana,Paulina
+Louisiana,Scott
+Louisiana,Sunset
+Louisiana,Jackson
+Louisiana,Holden
+Louisiana,Shreveport
+Louisiana,Golden Meadow
+Louisiana,Carencro
+Louisiana,Independence
+Louisiana,Bossier City
+Louisiana,Crowley
+Louisiana,Livingston
+Louisiana,Jeanerette
+Louisiana,Eros
+Louisiana,Lake Arthur
+Louisiana,West Monroe
+Louisiana,Schriever
+Louisiana,Glenmora
+Louisiana,Montegut
+Louisiana,Gibson
+Louisiana,Walker
+Louisiana,Ponchatoula
+Louisiana,Bastrop
+Louisiana,Raceland
+Louisiana,Donaldsonville
+Louisiana,Tickfaw
+Louisiana,Winnfield
+Louisiana,Hessmer
+Louisiana,Ruston
+Louisiana,Benton
+Louisiana,Cameron
+Louisiana,Zachary
+Louisiana,Alexandria
+Louisiana,Pitkin
+Louisiana,Calhoun
+Louisiana,Vidalia
+Louisiana,Morgan City
+Louisiana,Springfield
+Louisiana,Natchitoches
+Louisiana,Church Point
+Louisiana,Morse
+Louisiana,Schriever
+Louisiana,Greensburg
+Louisiana,Bogalusa
+Louisiana,Springhill
+Louisiana,Westlake
+Louisiana,Broussard
+Louisiana,Port Allen
+Louisiana,Mamou
+Louisiana,Deridder
+Louisiana,Walker
+Louisiana,Jennings
+Louisiana,Jena
+Louisiana,La Place
+Louisiana,Grayson
+Louisiana,Folsom
+Louisiana,Reserve
+Louisiana,Many
+Louisiana,Covington
+Louisiana,Ragley
+Louisiana,Creole
+Louisiana,Lake Charles
+Louisiana,Chalmette
+Louisiana,Independence
+Louisiana,Hammond
+Louisiana,Ruston
+Louisiana,Mansfield
+Louisiana,Monroe
+Louisiana,Rayne
+Louisiana,Mandeville
+Louisiana,Saint Francisville
+Louisiana,Elmer
+Louisiana,Gibson
+Louisiana,Youngsville
+Louisiana,Carencro
+Louisiana,Amite
+Louisiana,Arnaudville
+Louisiana,Bernice
+Louisiana,Jonesboro
+Louisiana,Violet
+Louisiana,Gonzales
+Louisiana,Kentwood
+Louisiana,Gray
+Louisiana,Florien
+Louisiana,Paulina
+Louisiana,Scott
+Louisiana,Moreauville
+Louisiana,Jackson
+Louisiana,Bossier City
+Louisiana,Cottonport
+Louisiana,Plaquemine
+Louisiana,Welsh
+Louisiana,Erath
+Louisiana,Luling
+Louisiana,Maurice
+Louisiana,Port Allen
+Louisiana,Albany
+Louisiana,Labadieville
+Louisiana,Franklinton
+Louisiana,Delhi
+Louisiana,Sunset
+Louisiana,Iota
+Louisiana,Gramercy
+Louisiana,Iota
+Louisiana,Florien
+Louisiana,Roseland
+Louisiana,Ponchatoula
+Louisiana,Vacherie
+Louisiana,Patterson
+Louisiana,Pitkin
+Louisiana,Amite
+Louisiana,Maringouin
+Louisiana,Destrehan
+Louisiana,Ferriday
+Louisiana,Kenner
+Louisiana,Berwick
+Louisiana,Elton
+Louisiana,Marksville
+Louisiana,Sarepta
+Louisiana,Shongaloo
+Louisiana,Mansfield
+Louisiana,Kentwood
+Louisiana,Loranger
+Louisiana,Belle Rose
+Louisiana,New Roads
+Louisiana,Leesville
+Louisiana,Pearl River
+Louisiana,Benton
+Louisiana,Gueydan
+Louisiana,Iowa
+Louisiana,Natchitoches
+Louisiana,Ethel
+Louisiana,Zachary
+Louisiana,Pineville
+Louisiana,Vacherie
+Louisiana,Donaldsonville
+Louisiana,Ball
+Louisiana,Roseland
+Louisiana,Westlake
+Louisiana,Norco
+Louisiana,Ragley
+Louisiana,Kinder
+Louisiana,Venice
+Louisiana,Basile
+Mississippi,Gulfport
+Mississippi,Long Beach
+Mississippi,Long Beach
+Mississippi,Hattiesburg
+Mississippi,Gulfport
+Mississippi,Ocean Springs
+Mississippi,Jackson
+Mississippi,Biloxi
+Mississippi,Pass Christian
+Mississippi,Bay Saint Louis
+Mississippi,Seminary
+Mississippi,Mount Olive
+Mississippi,Laurel
+Mississippi,Madison
+Mississippi,Pearl
+Mississippi,Diamondhead
+Mississippi,Sumrall
+Mississippi,Saucier
+Mississippi,Moselle
+Mississippi,Richland
+Mississippi,Pass Christian
+Mississippi,Meadville
+Mississippi,Vicksburg
+Mississippi,Ellisville
+Mississippi,Saucier
+Mississippi,Moss Point
+Mississippi,Picayune
+Mississippi,Brandon
+Mississippi,Hattiesburg
+Mississippi,Starkville
+Mississippi,Tupelo
+Mississippi,Meridian
+Mississippi,Tupelo
+Mississippi,Olive Branch
+Mississippi,Lucedale
+Mississippi,Oxford
+Mississippi,Carriere
+Mississippi,Diberville
+Mississippi,Wiggins
+Mississippi,Unknown
+Mississippi,Florence
+Mississippi,Grenada
+Mississippi,Poplarville
+Mississippi,Gautier
+Mississippi,Pontotoc
+Mississippi,Fulton
+Mississippi,Kiln
+Mississippi,Jackson
+Mississippi,Batesville
+Mississippi,Moselle
+Mississippi,Ocean Springs
+Mississippi,Waynesboro
+Mississippi,Enterprise
+Mississippi,Vancleave
+Mississippi,Pascagoula
+Mississippi,Osyka
+Mississippi,Greenville
+Mississippi,Cleveland
+Mississippi,Byram
+Mississippi,Perkinston
+Mississippi,Carthage
+Mississippi,Philadelphia
+Mississippi,Richland
+Mississippi,Clinton
+Mississippi,Waveland
+Mississippi,Ackerman
+Mississippi,Starkville
+Mississippi,Natchez
+Mississippi,Columbus
+Mississippi,Madison
+Mississippi,Terry
+Mississippi,Seminary
+Mississippi,Moss Point
+Mississippi,Laurel
+Mississippi,Ridgeland
+Mississippi,Biloxi
+Mississippi,Canton
+Mississippi,New Albany
+Mississippi,Brookhaven
+Mississippi,Utica
+Mississippi,Olive Branch
+Mississippi,Carriere
+Mississippi,Poplarville
+Mississippi,Sumrall
+Mississippi,Carthage
+Mississippi,Corinth
+Mississippi,Tchula
+Mississippi,Southaven
+Mississippi,Southaven
+Mississippi,Diamondhead
+Mississippi,Mendenhall
+Mississippi,Guntown
+Mississippi,Purvis
+Mississippi,Newhebron
+Mississippi,Bay Saint Louis
+Mississippi,Mississippi State
+Mississippi,Louisville
+Mississippi,Unknown
+Mississippi,Morton
+Mississippi,Bay Springs
+Mississippi,Gautier
+Mississippi,Ellisville
+Mississippi,Greenwood
+Mississippi,Vicksburg
+Mississippi,Raymond
+Mississippi,Picayune
+Mississippi,Stringer
+Mississippi,Indianola
+Mississippi,Mccomb
+Mississippi,Osyka
+Mississippi,Greenville
+Mississippi,Liberty
+Mississippi,Pearl
+Mississippi,Oxford
+Mississippi,Hernando
+Mississippi,Raymond
+Mississippi,Mc Henry
+Mississippi,Columbia
+Mississippi,Magnolia
+Mississippi,Mount Olive
+Mississippi,Petal
+Mississippi,Ridgeland
+Mississippi,Newton
+Mississippi,Clarksdale
+Mississippi,Leland
+Mississippi,Senatobia
+Mississippi,Collins
+Mississippi,Pascagoula
+Mississippi,Meridian
+Mississippi,Corinth
+Mississippi,Liberty
+Mississippi,Ripley
+Mississippi,Bogue Chitto
+Mississippi,Saltillo
+Mississippi,Columbus
+Mississippi,West Point
+Mississippi,Mississippi State
+Mississippi,Grenada
+Mississippi,Brandon
+Mississippi,Senatobia
+Mississippi,Lucedale
+Mississippi,Heidelberg
+Mississippi,Winona
+Mississippi,Enterprise
+Mississippi,Stringer
+Mississippi,Pearlington
+Mississippi,Leakesville
+Mississippi,Byhalia
+Mississippi,Waynesboro
+Mississippi,Raleigh
+Mississippi,Byhalia
+Mississippi,Wiggins
+Mississippi,University
+Mississippi,Bay Springs
+Mississippi,Mendenhall
+Mississippi,Brookhaven
+Mississippi,Collinsville
+Mississippi,Hernando
+Mississippi,Stennis Space Center
+Mississippi,Taylorsville
+Mississippi,Bogue Chitto
+Mississippi,Greenwood
+Mississippi,Summit
+Mississippi,Ripley
+Mississippi,Magee
+Mississippi,Rienzi
+Mississippi,Columbia
+Mississippi,Batesville
+Mississippi,Booneville
+Mississippi,Decatur
+Mississippi,Clarksdale
+Mississippi,Natchez
+Mississippi,Yazoo City
+Mississippi,Heidelberg
+Texas,Houston
+Texas,Dallas
+Texas,Fort Worth
+Texas,Unknown
+Texas,Irving
+Texas,Houston
+Texas,Arlington
+Texas,Dallas
+Texas,Unknown
+Texas,Fort Worth
+Texas,Spring
+Texas,San Antonio
+Texas,Castroville
+Texas,Irving
+Texas,Odessa
+Texas,Beaumont
+Texas,Harlingen
+Texas,Austin
+Texas,Port Arthur
+Texas,Arlington
+Texas,Texarkana
+Texas,Pearland
+Texas,Midland
+Texas,Garland
+Texas,Beaumont
+Texas,Corpus Christi
+Texas,Waco
+Texas,Sugar Land
+Texas,Smithville
+Texas,Temple
+Texas,Leander
+Texas,Jacksonville
+Texas,Beeville
+Texas,Lubbock
+Texas,Edinburg
+Texas,Richmond
+Texas,Ballinger
+Texas,Galveston
+Texas,Freeport
+Texas,Groves
+Texas,Humble
+Texas,San Angelo
+Texas,Port Arthur
+Texas,Nome
+Texas,Katy
+Texas,Clute
+Texas,Marshall
+Texas,Port Neches
+Texas,Friendswood
+Texas,Karnack
+Texas,San Marcos
+Texas,Wichita Falls
+Texas,Frisco
+Texas,Orange
+Texas,Portland
+Texas,Tomball
+Texas,Pearsall
+Texas,College Station
+Texas,Longview
+Texas,Colorado City
+Texas,Borger
+Texas,La Marque
+Texas,Killeen
+Texas,Nome
+Texas,Karnack
+Texas,El Paso
+Texas,Mesquite
+Texas,Pasadena
+Texas,Amarillo
+Texas,Missouri City
+Texas,Gatesville
+Texas,Santa Fe
+Texas,Lake Jackson
+Texas,Carrollton
+Texas,Kountze
+Texas,Nederland
+Texas,Grand Prairie
+Texas,Waxahachie
+Texas,Sherman
+Texas,Tyler
+Texas,Dayton
+Texas,Aransas Pass
+Texas,Cumby
+Texas,Rowlett
+Texas,Cypress
+Texas,Lufkin
+Texas,Lumberton
+Texas,Sour Lake
+Texas,Cedar Hill
+Texas,El Campo
+Texas,Nacogdoches
+Texas,Denton
+Texas,Conroe
+Texas,Anna
+Texas,Channelview
+Texas,Eagle Lake
+Texas,Vidor
+Texas,Grapevine
+Texas,Nevada
+Texas,Weatherford
+Texas,Webster
+Texas,Gainesville
+Texas,Round Rock
+Texas,League City
+Texas,Troup
+Texas,Texas City
+Texas,Whitesboro
+Texas,Dumas
+Texas,Montgomery
+Texas,Bastrop
+Texas,Jasper
+Texas,Plano
+Texas,Quinlan
+Texas,Trinity
+Texas,Pearland
+Texas,Texarkana
+Texas,Euless
+Texas,Rockwall
+Texas,Crosby
+Texas,Vernon
+Texas,Grand Prairie
+Texas,Cypress
+Texas,Pampa
+Texas,Lockhart
+Texas,Woodway
+Texas,San Augustine
+Texas,Wylie
+Texas,Lewisville
+Texas,North Richland Hills
+Texas,Alvin
+Texas,Yoakum
+Texas,San Augustine
+Texas,Smithville
+Texas,Odessa
+Texas,Mcallen
+Texas,Desoto
+Texas,Crockett
+Texas,Magnolia
+Texas,Groves
+Texas,Orange
+Texas,Longview
+Texas,Winters
+Texas,Silsbee
+Texas,Andrews
+Texas,Big Spring
+Texas,Brackettville
+Texas,Weslaco
+Texas,Abilene
+Texas,Dalhart
+Texas,Waller
+Texas,Elmendorf
+Texas,Burleson
+Texas,Ennis
+Texas,Keller
+Texas,Mansfield
+Texas,Brownsville
+Texas,Rio Hondo
+Texas,Baytown
+Texas,Sealy
+Texas,Aledo
+Texas,Huntsville
+Texas,Friona
+Texas,Caldwell
+Texas,Pharr
+Texas,Penitas
+Texas,Moscow
+Texas,Centerville
+Texas,Eagle Lake
+Texas,The Colony
+Texas,Georgetown
+Texas,Wallis
+Texas,Azle
+Texas,Ganado
+Texas,Van Alstyne
+Texas,Jefferson
+Texas,Pflugerville
+Texas,Manchaca
+Texas,Cameron
+Texas,Warren
+Texas,Celina
+Texas,Mckinney
+Texas,Hondo
+Texas,Dripping Springs
+Texas,Liberty Hill
+Texas,Leonard
+Texas,Canton
+Texas,Comanche
+Texas,Kirbyville
+Texas,Jasper
+Texas,Duncanville
+Texas,Killeen
+Texas,Hurst
+Texas,Lumberton
+Texas,Roanoke
+Texas,Copperas Cove
+Texas,Euless
+Texas,Bedford
+Texas,Canyon
+Texas,Kemp
+Texas,La Coste
+Texas,Laredo
+Texas,Stafford
+Texas,Balch Springs
+Texas,Ingleside
+Texas,Austin
+Texas,Nederland
+Texas,Canton
+Texas,Royse City
+Texas,Center
+Texas,Celeste
+Texas,Rosenberg
+Texas,Mission
+Texas,Byers
+Texas,Thrall
+Texas,Justin
+Texas,Pipe Creek
+Texas,Bridge City
+Texas,Southlake
+Texas,Bridgeport
+Texas,Buna
+Texas,Port Neches
+Texas,Conroe
+Texas,Fischer
+Texas,Port Isabel
+Texas,Tuscola
+Texas,Brookshire
+Texas,Marshall
+Texas,Cleburne
+Texas,Kyle
+Texas,Rusk
+Texas,New Braunfels
+Texas,Henderson
+Texas,Allen
+Texas,Plains
+Texas,Decatur
+Texas,Kilgore
+Texas,Emory
+Texas,Como
+Texas,Goodfellow Afb
+Texas,China
+Texas,Burkburnett
+Texas,Duncanville
+Texas,Angleton
+Texas,Red Oak
+Texas,Crowley
+Texas,Colleyville
+Texas,Brownsboro
