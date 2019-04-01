@@ -20,11 +20,11 @@
     </v-navigation-drawer>
     <v-toolbar app>
       <v-toolbar-side-icon @click="drawer = !drawer" />
-      <v-toolbar-title v-text="title" />
+      <v-toolbar-title>Impressions</v-toolbar-title>
       <v-spacer />
-      <v-btn color="warning" class="black--text" light @click="addFiles">
+      <v-btn color="warning" flat class="black--text" light @click="addFiles">
         Click to upload
-        <v-icon>mdi-cloud-upload</v-icon>
+        <v-icon right>mdi-cloud-upload</v-icon>
       </v-btn>
     </v-toolbar>
     <v-content>

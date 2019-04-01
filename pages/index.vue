@@ -1,7 +1,7 @@
 <template>
-  <div id="map-wrap" style="height: 100%; z-index: 1;">
+  <div id="map-wrap" style="height: 100%;">
     <no-ssr>
-      <l-map ref="map" :zoom="6.5" :center.sync="center">
+      <l-map ref="map" :zoom="6.5" :center.sync="center" style="z-index: 1;">
         <l-tile-layer
           url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
         ></l-tile-layer>
