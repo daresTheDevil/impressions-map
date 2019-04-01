@@ -1,7 +1,13 @@
 <template>
   <div id="map-wrap" style="height: 100%;">
     <no-ssr>
-      <l-map ref="map" :zoom="6.5" :center.sync="center" style="z-index: 1;">
+      <l-map
+        ref="map"
+        :zoom="6.5"
+        :center.sync="center"
+        style="z-index: 1;"
+        :options="$vuetify.breakpoint.smAndDown ? { zoomControl: false } : ''"
+      >
         <l-tile-layer
           url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
         ></l-tile-layer>
@@ -37,6 +43,7 @@ export default {
   data() {
     return {
       jsonMarkers,
+      zoom: false,
       show: false,
       center: [29.959694, -90.054932]
     }
